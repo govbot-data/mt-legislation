@@ -152,6 +152,18 @@
       }
     },
     {
+      "description": "(S) Tabled in Committee - (S) Judiciary",
+      "date": "2025-01-23T19:00:53+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-27T09:43:27Z"
+      }
+    },
+    {
       "description": "(S) Taken from Table in Committee - (S) Judiciary",
       "date": "2025-01-27T18:40:38+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -872,6 +884,6 @@
     "division_id": "ocd-division/country:us/state:mt"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T09:43:27Z"
+    "logs_latest_update": "2026-01-14T12:51:08Z"
   }
 }

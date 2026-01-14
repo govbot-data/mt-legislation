@@ -456,6 +456,16 @@
     },
     {
       "description": "(S) Committee Executive Action--Bill Concurred - (S) Agriculture, Livestock and Irrigation",
+      "date": "2025-04-15T23:19:59+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-27T09:43:23Z"
+      }
+    },
+    {
+      "description": "(S) Committee Executive Action--Bill Concurred - (S) Agriculture, Livestock and Irrigation",
       "date": "2025-04-15T23:24:26+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
@@ -1108,6 +1118,6 @@
     "division_id": "ocd-division/country:us/state:mt"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T09:43:23Z"
+    "logs_latest_update": "2026-01-14T12:51:08Z"
   }
 }

@@ -152,6 +152,18 @@
       }
     },
     {
+      "description": "(H) Committee Executive Action--Bill Passed - (H) Local Government",
+      "date": "2025-01-10T00:33:45+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-27T09:43:20Z"
+      }
+    },
+    {
       "description": "(H) Committee Report--Bill Passed - (H) Local Government",
       "date": "2025-01-10T20:44:48+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -730,6 +742,6 @@
     "division_id": "ocd-division/country:us/state:mt"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T09:43:20Z"
+    "logs_latest_update": "2026-01-14T12:51:08Z"
   }
 }

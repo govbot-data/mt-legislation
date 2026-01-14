@@ -183,6 +183,18 @@
       }
     },
     {
+      "description": "(S) Committee Executive Action--Bill Not Passed as Amended - (S) Fish and Game",
+      "date": "2025-02-25T22:05:12+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-27T09:43:25Z"
+      }
+    },
+    {
       "description": "(S) Tabled in Committee - (S) Fish and Game",
       "date": "2025-02-25T22:16:17+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -819,6 +831,6 @@
     "division_id": "ocd-division/country:us/state:mt"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T09:43:25Z"
+    "logs_latest_update": "2026-01-14T12:51:08Z"
   }
 }

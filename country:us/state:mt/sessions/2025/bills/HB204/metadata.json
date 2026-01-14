@@ -172,6 +172,18 @@
       }
     },
     {
+      "description": "(H) Tabled in Committee - (H) Business and Labor",
+      "date": "2025-01-21T19:40:40+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-27T09:43:22Z"
+      }
+    },
+    {
       "description": "(H) Missed Deadline for General Bill Transmittal",
       "date": "2025-03-12T19:00:39+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -320,6 +332,6 @@
     "division_id": "ocd-division/country:us/state:mt"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T09:43:22Z"
+    "logs_latest_update": "2026-01-14T12:51:08Z"
   }
 }

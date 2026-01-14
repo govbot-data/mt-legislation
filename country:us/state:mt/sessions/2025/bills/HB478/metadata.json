@@ -253,6 +253,18 @@
     },
     {
       "description": "(H) Tabled in Committee - (H) Judiciary",
+      "date": "2025-02-21T19:44:15+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-27T09:43:21Z"
+      }
+    },
+    {
+      "description": "(H) Tabled in Committee - (H) Judiciary",
       "date": "2025-03-03T19:48:03+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -447,6 +459,6 @@
     "division_id": "ocd-division/country:us/state:mt"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T09:43:21Z"
+    "logs_latest_update": "2026-01-14T12:51:08Z"
   }
 }
