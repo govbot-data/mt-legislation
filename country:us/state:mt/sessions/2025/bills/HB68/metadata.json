@@ -13,7 +13,11 @@
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mt-2025-hb68"
+    }
+  ],
   "actions": [
     {
       "description": "(LC) Drafter Assigned",
@@ -134,18 +138,6 @@
       "date": "2025-01-07T01:12:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T09:43:20Z"
-      }
-    },
-    {
-      "description": "(H) Committee Executive Action--Bill Passed - (H) Local Government",
-      "date": "2025-01-10T00:33:45+00:00",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "committee-passage"
-      ],
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T09:43:20Z"
@@ -742,6 +734,6 @@
     "division_id": "ocd-division/country:us/state:mt"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-14T12:51:08Z"
+    "logs_latest_update": "2026-04-30T13:58:55Z"
   }
 }

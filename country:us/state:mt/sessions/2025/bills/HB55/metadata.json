@@ -13,7 +13,11 @@
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mt-2025-hb55"
+    }
+  ],
   "actions": [
     {
       "description": "(LC) Drafter Assigned",
@@ -312,16 +316,6 @@
     {
       "description": "(S) Hearing - (S) Energy, Technology & Federal Relations",
       "date": "2025-02-13T20:30:35+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T09:43:20Z"
-      }
-    },
-    {
-      "description": "(S) Committee Executive Action--Bill Concurred as Amended - (S) Energy, Technology & Federal Relations",
-      "date": "2025-03-25T20:49:08+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
@@ -1515,6 +1509,6 @@
     "division_id": "ocd-division/country:us/state:mt"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-14T12:51:08Z"
+    "logs_latest_update": "2026-04-30T13:58:55Z"
   }
 }

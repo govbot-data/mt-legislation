@@ -17,7 +17,11 @@
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mt-2025-hb860"
+    }
+  ],
   "actions": [
     {
       "description": "(LC) Drafter Assigned",
@@ -437,16 +441,6 @@
     {
       "description": "(S) Hearing - (S) Agriculture, Livestock and Irrigation",
       "date": "2025-04-11T17:32:13+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T09:43:23Z"
-      }
-    },
-    {
-      "description": "(S) Committee Executive Action--Bill Concurred - (S) Agriculture, Livestock and Irrigation",
-      "date": "2025-04-15T23:19:59+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
@@ -1118,6 +1112,6 @@
     "division_id": "ocd-division/country:us/state:mt"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-14T12:51:08Z"
+    "logs_latest_update": "2026-04-30T13:58:55Z"
   }
 }

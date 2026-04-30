@@ -13,7 +13,11 @@
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mt-2025-sb420"
+    }
+  ],
   "actions": [
     {
       "description": "(LC) Drafter Assigned",
@@ -134,18 +138,6 @@
       "date": "2025-02-26T16:38:40+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T09:43:21Z"
-      }
-    },
-    {
-      "description": "(S) Committee Executive Action--Bill Passed as Amended - (S) Local Government",
-      "date": "2025-03-01T00:22:43+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "committee-passage"
-      ],
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T09:43:21Z"
@@ -541,6 +533,6 @@
     "division_id": "ocd-division/country:us/state:mt"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-14T12:51:08Z"
+    "logs_latest_update": "2026-04-30T13:58:55Z"
   }
 }

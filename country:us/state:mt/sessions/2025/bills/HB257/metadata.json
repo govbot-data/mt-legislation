@@ -12,7 +12,11 @@
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mt-2025-hb257"
+    }
+  ],
   "actions": [
     {
       "description": "(LC) Drafter Assigned",
@@ -193,18 +197,6 @@
       "date": "2025-01-23T16:07:31+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T09:43:15Z"
-      }
-    },
-    {
-      "description": "(H) Committee Executive Action--Bill Passed as Amended - (H) Energy, Technology and Federal Relations",
-      "date": "2025-01-29T23:31:45+00:00",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "committee-passage"
-      ],
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T09:43:15Z"
@@ -922,6 +914,6 @@
     "division_id": "ocd-division/country:us/state:mt"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-14T12:51:08Z"
+    "logs_latest_update": "2026-04-30T13:58:55Z"
   }
 }
