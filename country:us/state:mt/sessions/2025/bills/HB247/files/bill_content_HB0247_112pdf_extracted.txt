@@ -1,0 +1,28 @@
+Title: 
+Official Title: 
+Source: versions - HB0247_1(12).pdf
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+****
+69th Legislature 2025 HB 247.1
+1 HOUSE BILL NO. 247
+2 INTRODUCED BY B. MITCHELL, E. BYRNE, S. FITZPATRICK, C. HINKLE
+3
+4 A BILL FOR AN ACT ENTITLED: “AN ACT ELIMINATING DAMAGES FOR INJURIES AND DEATH ARISING
+5 FROM A DUEL; AMENDING SECTION 27-1-301, MCA; AND REPEALING SECTION 27-1-223, MCA.”
+6
+7 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF MONTANA:
+8
+9 Section 1. Section 27-1-301, MCA, is amended to read:
+10 "27-1-301. Prescribed damages exclusive of exemplary damages and interest. The damages
+11 prescribed by 27-1-204, 27-1-222, 27-1-223, and this part are exclusive of exemplary damages and interest
+12 except where those are expressly mentioned."
+13
+14 NEW SECTION. Section 2. Repealer. The following section of the Montana Code Annotated is
+15 repealed:
+16 27-1-223. Damages for injuries or death inflicted in duel.
+17 - END -
+- 1 - Authorized Print Version – HB 247
