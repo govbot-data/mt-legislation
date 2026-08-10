@@ -132,15 +132,13 @@
       }
     },
     {
-      "description": "(S) First Reading",
+      "description": "(S) 1st Reading",
       "date": "2025-02-14T20:23:06+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "reading-1"
-      ],
+      "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:58:00Z"
+        "log_file_created": "2026-08-10T08:04:34Z"
       }
     },
     {
@@ -166,37 +164,23 @@
       }
     },
     {
-      "description": "(S) Sponsor List Modified",
-      "date": "2025-02-26T22:44:00+00:00",
+      "description": "(S) Committee Executive Action - (S) Judiciary",
+      "date": "2025-02-27T17:31:56+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:58:00Z"
+        "log_file_created": "2026-08-10T08:04:34Z"
       }
     },
     {
-      "description": "(S) Committee Executive Action--Bill Passed as Amended - (S) Judiciary",
-      "date": "2025-02-27T17:31:56+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "committee-passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T18:58:00Z"
-      }
-    },
-    {
-      "description": "(S) Committee Report--Bill Passed as Amended - (S) Judiciary",
+      "description": "(S) Committee Report - (S) Judiciary",
       "date": "2025-02-27T20:41:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "committee-passage"
-      ],
+      "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:58:00Z"
+        "log_file_created": "2026-08-10T08:04:34Z"
       }
     },
     {
@@ -234,16 +218,15 @@
       }
     },
     {
-      "description": "(S) 2nd Reading Passed",
+      "description": "(S) 2nd Reading",
       "date": "2025-03-03T20:43:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
-        "reading-2",
         "reading-2"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:58:00Z"
+        "log_file_created": "2026-08-10T08:04:34Z"
       }
     },
     {
@@ -302,27 +285,23 @@
       }
     },
     {
-      "description": "(S) Committee Executive Action--Bill Passed - (S) Finance and Claims",
+      "description": "(S) Committee Executive Action - (S) Finance and Claims",
       "date": "2025-03-19T17:49:20+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "committee-passage"
-      ],
+      "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:58:00Z"
+        "log_file_created": "2026-08-10T08:04:34Z"
       }
     },
     {
-      "description": "(S) Committee Report--Bill Passed - (S) Finance and Claims",
+      "description": "(S) Committee Report - (S) Finance and Claims",
       "date": "2025-03-19T21:14:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "committee-passage"
-      ],
+      "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:58:00Z"
+        "log_file_created": "2026-08-10T08:04:34Z"
       }
     },
     {
@@ -338,16 +317,13 @@
       }
     },
     {
-      "description": "(S) 3rd Reading Passed",
+      "description": "(S) 3rd Reading",
       "date": "2025-03-20T20:55:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "passage",
-        "reading-3"
-      ],
+      "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:58:00Z"
+        "log_file_created": "2026-08-10T08:04:34Z"
       }
     },
     {
@@ -373,15 +349,13 @@
       }
     },
     {
-      "description": "(H) First Reading",
+      "description": "(H) 1st Reading",
       "date": "2025-03-21T20:08:01+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "reading-1"
-      ],
+      "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:58:00Z"
+        "log_file_created": "2026-08-10T08:04:34Z"
       }
     },
     {
@@ -395,23 +369,23 @@
       }
     },
     {
-      "description": "(H) Committee Executive Action--Bill Concurred - (H) Judiciary",
+      "description": "(H) Committee Executive Action - (H) Judiciary",
       "date": "2025-04-16T17:17:02+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:58:00Z"
+        "log_file_created": "2026-08-10T08:04:34Z"
       }
     },
     {
-      "description": "(H) Committee Report--Bill Concurred - (H) Judiciary",
+      "description": "(H) Committee Report - (H) Judiciary",
       "date": "2025-04-16T19:17:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:58:00Z"
+        "log_file_created": "2026-08-10T08:04:34Z"
       }
     },
     {
@@ -427,29 +401,25 @@
       }
     },
     {
-      "description": "(H) 2nd Reading Not Concurred",
+      "description": "(H) 2nd Reading",
       "date": "2025-04-22T20:30:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
-        "reading-2",
         "reading-2"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:58:00Z"
+        "log_file_created": "2026-08-10T08:04:34Z"
       }
     },
     {
-      "description": "(H) Reconsidered Previous Action; Placed on 2nd Reading",
+      "description": "(H) Reconsidered Previous Action",
       "date": "2025-04-23T00:49:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "reading-2",
-        "reading-2"
-      ],
+      "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:58:00Z"
+        "log_file_created": "2026-08-10T08:04:34Z"
       }
     },
     {
@@ -1010,7 +980,7 @@
     "division_id": "ocd-division/country:us/state:mt"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:16Z",
+    "logs_latest_update": "2026-08-10T08:04:34Z",
     "text_extraction_latest_update": "2026-07-22T14:14:09.609596Z"
   }
 }

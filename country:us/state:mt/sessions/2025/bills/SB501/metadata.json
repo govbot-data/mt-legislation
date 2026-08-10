@@ -110,15 +110,13 @@
       }
     },
     {
-      "description": "(S) First Reading",
+      "description": "(S) 1st Reading",
       "date": "2025-02-26T20:27:22+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "reading-1"
-      ],
+      "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:58:05Z"
+        "log_file_created": "2026-08-10T08:04:34Z"
       }
     },
     {
@@ -150,16 +148,6 @@
       "classification": [
         "amendment-deferral"
       ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T18:58:05Z"
-      }
-    },
-    {
-      "description": "(S) Sponsor List Modified",
-      "date": "2025-02-28T22:35:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-21T18:58:05Z"
@@ -281,7 +269,7 @@
     "division_id": "ocd-division/country:us/state:mt"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:16Z",
+    "logs_latest_update": "2026-08-10T08:04:34Z",
     "text_extraction_latest_update": "2026-07-23T12:29:31.918910Z"
   }
 }

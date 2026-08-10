@@ -109,15 +109,13 @@
       }
     },
     {
-      "description": "(S) First Reading",
+      "description": "(S) 1st Reading",
       "date": "2025-01-16T20:15:46+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "reading-1"
-      ],
+      "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:57:54Z"
+        "log_file_created": "2026-08-10T08:04:34Z"
       }
     },
     {
@@ -209,16 +207,6 @@
     {
       "description": "(S) Sponsor Rebuttal to Fiscal Note Printed",
       "date": "2025-01-27T21:44:40+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T18:57:54Z"
-      }
-    },
-    {
-      "description": "(S) Sponsor List Modified",
-      "date": "2025-01-29T23:05:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
@@ -409,7 +397,7 @@
     "division_id": "ocd-division/country:us/state:mt"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:09Z",
+    "logs_latest_update": "2026-08-10T08:04:34Z",
     "text_extraction_latest_update": "2026-07-23T09:10:00.337786Z"
   }
 }

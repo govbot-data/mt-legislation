@@ -130,15 +130,13 @@
       }
     },
     {
-      "description": "(S) First Reading",
+      "description": "(S) 1st Reading",
       "date": "2025-01-31T20:25:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "reading-1"
-      ],
+      "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:57:57Z"
+        "log_file_created": "2026-08-10T08:04:34Z"
       }
     },
     {
@@ -164,37 +162,23 @@
       }
     },
     {
-      "description": "(S) Sponsor List Modified",
-      "date": "2025-02-10T22:15:00+00:00",
+      "description": "(S) Committee Executive Action - (S) Local Government",
+      "date": "2025-02-25T00:12:03+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:57:57Z"
+        "log_file_created": "2026-08-10T08:04:34Z"
       }
     },
     {
-      "description": "(S) Committee Executive Action--Bill Passed as Amended - (S) Local Government",
-      "date": "2025-02-25T00:12:03+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "committee-passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T18:57:57Z"
-      }
-    },
-    {
-      "description": "(S) Committee Report--Bill Passed as Amended - (S) Local Government",
+      "description": "(S) Committee Report - (S) Local Government",
       "date": "2025-02-25T21:39:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "committee-passage"
-      ],
+      "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:57:57Z"
+        "log_file_created": "2026-08-10T08:04:34Z"
       }
     },
     {
@@ -222,16 +206,15 @@
       }
     },
     {
-      "description": "(S) 2nd Reading Passed",
+      "description": "(S) 2nd Reading",
       "date": "2025-02-28T21:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
-        "reading-2",
         "reading-2"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:57:57Z"
+        "log_file_created": "2026-08-10T08:04:34Z"
       }
     },
     {
@@ -247,16 +230,13 @@
       }
     },
     {
-      "description": "(S) 3rd Reading Passed",
+      "description": "(S) 3rd Reading",
       "date": "2025-03-01T15:26:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "passage",
-        "reading-3"
-      ],
+      "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:57:57Z"
+        "log_file_created": "2026-08-10T08:04:34Z"
       }
     },
     {
@@ -282,15 +262,13 @@
       }
     },
     {
-      "description": "(H) First Reading",
+      "description": "(H) 1st Reading",
       "date": "2025-03-03T20:15:13+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "reading-1"
-      ],
+      "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:57:57Z"
+        "log_file_created": "2026-08-10T08:04:34Z"
       }
     },
     {
@@ -304,23 +282,23 @@
       }
     },
     {
-      "description": "(H) Committee Executive Action--Bill Concurred as Amended - (H) Local Government",
+      "description": "(H) Committee Executive Action - (H) Local Government",
       "date": "2025-04-08T23:54:46+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:57:57Z"
+        "log_file_created": "2026-08-10T08:04:34Z"
       }
     },
     {
-      "description": "(H) Committee Report--Bill Concurred as Amended - (H) Local Government",
+      "description": "(H) Committee Report - (H) Local Government",
       "date": "2025-04-09T20:14:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:57:57Z"
+        "log_file_created": "2026-08-10T08:04:34Z"
       }
     },
     {
@@ -336,30 +314,27 @@
       }
     },
     {
-      "description": "(H) 2nd Reading Motion to Amend Failed",
+      "description": "(H) 2nd Reading Motion to Amend",
       "date": "2025-04-11T15:53:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
-        "amendment-failure",
-        "failure",
         "reading-2"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:57:57Z"
+        "log_file_created": "2026-08-10T08:04:34Z"
       }
     },
     {
-      "description": "(H) 2nd Reading Concurred",
+      "description": "(H) 2nd Reading",
       "date": "2025-04-11T16:13:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
-        "reading-2",
         "reading-2"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:57:57Z"
+        "log_file_created": "2026-08-10T08:04:34Z"
       }
     },
     {
@@ -375,16 +350,13 @@
       }
     },
     {
-      "description": "(H) 3rd Reading Concurred",
+      "description": "(H) 3rd Reading",
       "date": "2025-04-11T23:56:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "passage",
-        "reading-3"
-      ],
+      "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:57:57Z"
+        "log_file_created": "2026-08-10T08:04:34Z"
       }
     },
     {
@@ -434,18 +406,15 @@
       }
     },
     {
-      "description": "(S) 2nd Reading House Amendments Concurred",
+      "description": "(S) 2nd Reading House Amendments",
       "date": "2025-04-16T19:44:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
-        "amendment-amendment",
-        "amendment-passage",
-        "reading-2",
         "reading-2"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:57:57Z"
+        "log_file_created": "2026-08-10T08:04:34Z"
       }
     },
     {
@@ -461,18 +430,13 @@
       }
     },
     {
-      "description": "(S) 3rd Reading Passed as Amended by House",
+      "description": "(S) 3rd Reading House Amendments",
       "date": "2025-04-17T19:16:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "passage",
-        "passage",
-        "reading-3",
-        "reading-3"
-      ],
+      "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:57:57Z"
+        "log_file_created": "2026-08-10T08:04:34Z"
       }
     },
     {
@@ -1208,7 +1172,7 @@
     "division_id": "ocd-division/country:us/state:mt"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:03Z",
+    "logs_latest_update": "2026-08-10T08:04:34Z",
     "text_extraction_latest_update": "2026-07-22T16:19:33.430761Z"
   }
 }

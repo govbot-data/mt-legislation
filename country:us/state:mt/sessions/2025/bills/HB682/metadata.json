@@ -154,15 +154,13 @@
       }
     },
     {
-      "description": "(H) First Reading",
+      "description": "(H) 1st Reading",
       "date": "2025-02-24T20:09:59+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "reading-1"
-      ],
+      "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:58:04Z"
+        "log_file_created": "2026-08-10T08:04:34Z"
       }
     },
     {
@@ -196,15 +194,13 @@
       }
     },
     {
-      "description": "(H) Committee Executive Action--Bill Passed as Amended - (H) Judiciary",
+      "description": "(H) Committee Executive Action - (H) Judiciary",
       "date": "2025-03-03T18:59:57+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "committee-passage"
-      ],
+      "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:58:04Z"
+        "log_file_created": "2026-08-10T08:04:34Z"
       }
     },
     {
@@ -240,19 +236,17 @@
       }
     },
     {
-      "description": "(H) Committee Report--Bill Passed as Amended - (H) Judiciary",
+      "description": "(H) Committee Report - (H) Judiciary",
       "date": "2025-03-04T20:37:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "committee-passage"
-      ],
+      "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:58:04Z"
+        "log_file_created": "2026-08-10T08:04:34Z"
       }
     },
     {
-      "description": "(H) 2nd Reading Motion to Amend Carried",
+      "description": "(H) 2nd Reading Motion to Amend",
       "date": "2025-03-05T22:49:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -260,33 +254,29 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:58:04Z"
+        "log_file_created": "2026-08-10T08:04:34Z"
       }
     },
     {
-      "description": "(H) 2nd Reading Passed as Amended",
+      "description": "(H) 2nd Reading",
       "date": "2025-03-05T22:53:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
-        "reading-2",
         "reading-2"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:58:04Z"
+        "log_file_created": "2026-08-10T08:04:34Z"
       }
     },
     {
-      "description": "(H) 3rd Reading Passed",
+      "description": "(H) 3rd Reading",
       "date": "2025-03-07T16:51:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "passage",
-        "reading-3"
-      ],
+      "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:58:04Z"
+        "log_file_created": "2026-08-10T08:04:34Z"
       }
     },
     {
@@ -300,15 +290,13 @@
       }
     },
     {
-      "description": "(S) First Reading",
+      "description": "(S) 1st Reading",
       "date": "2025-03-15T00:04:01+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "reading-1"
-      ],
+      "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:58:04Z"
+        "log_file_created": "2026-08-10T08:04:34Z"
       }
     },
     {
@@ -334,49 +322,45 @@
       }
     },
     {
-      "description": "(S) Committee Executive Action--Bill Concurred as Amended - (S) Judiciary",
+      "description": "(S) Committee Executive Action - (S) Judiciary",
       "date": "2025-04-07T16:44:32+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:58:04Z"
+        "log_file_created": "2026-08-10T08:04:34Z"
       }
     },
     {
-      "description": "(S) Committee Report--Bill Concurred as Amended - (S) Judiciary",
+      "description": "(S) Committee Report - (S) Judiciary",
       "date": "2025-04-08T19:26:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:58:04Z"
+        "log_file_created": "2026-08-10T08:04:34Z"
       }
     },
     {
-      "description": "(S) 2nd Reading Concurred",
+      "description": "(S) 2nd Reading",
       "date": "2025-04-10T21:26:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
-        "reading-2",
         "reading-2"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:58:04Z"
+        "log_file_created": "2026-08-10T08:04:34Z"
       }
     },
     {
-      "description": "(S) 3rd Reading Concurred",
+      "description": "(S) 3rd Reading",
       "date": "2025-04-11T21:43:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "passage",
-        "reading-3"
-      ],
+      "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:58:04Z"
+        "log_file_created": "2026-08-10T08:04:34Z"
       }
     },
     {
@@ -390,7 +374,7 @@
       }
     },
     {
-      "description": "(H) 2nd Reading Senate Amendments Not Concurred",
+      "description": "(H) 2nd Reading Senate Amendments",
       "date": "2025-04-16T20:20:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -398,22 +382,12 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:58:04Z"
+        "log_file_created": "2026-08-10T08:04:34Z"
       }
     },
     {
       "description": "(H) Conference Committee Appointed",
       "date": "2025-04-17T21:40:30+00:00",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T18:58:04Z"
-      }
-    },
-    {
-      "description": "(H) Conference Committee Dissolved",
-      "date": "2025-04-22T18:10:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
@@ -452,18 +426,6 @@
       }
     },
     {
-      "description": "(S) Free Conference Committee Report Received",
-      "date": "2025-04-28T23:03:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "receipt"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T18:58:04Z"
-      }
-    },
-    {
       "description": "(S) Scheduled for 2nd Reading",
       "date": "2025-04-29T16:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -476,7 +438,7 @@
       }
     },
     {
-      "description": "(S) 2nd Reading Free Conference Committee Report Adopted",
+      "description": "(S) 2nd Reading Free Conference Committee Report",
       "date": "2025-04-29T17:51:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -484,7 +446,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:58:04Z"
+        "log_file_created": "2026-08-10T08:04:34Z"
       }
     },
     {
@@ -500,7 +462,7 @@
       }
     },
     {
-      "description": "(H) 2nd Reading Free Conference Committee Report Adopted",
+      "description": "(H) 2nd Reading Free Conference Committee Report",
       "date": "2025-04-29T20:33:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -508,7 +470,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:58:04Z"
+        "log_file_created": "2026-08-10T08:04:34Z"
       }
     },
     {
@@ -536,23 +498,23 @@
       }
     },
     {
-      "description": "(H) 3rd Reading Free Conference Committee Report Adopted",
+      "description": "(H) 3rd Reading Free Conference Committee Report",
       "date": "2025-04-30T17:10:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:58:04Z"
+        "log_file_created": "2026-08-10T08:04:34Z"
       }
     },
     {
-      "description": "(S) 3rd Reading Free Conference Committee Report Adopted",
+      "description": "(S) 3rd Reading Free Conference Committee Report",
       "date": "2025-04-30T20:19:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:58:04Z"
+        "log_file_created": "2026-08-10T08:04:34Z"
       }
     },
     {
@@ -1585,7 +1547,7 @@
     "division_id": "ocd-division/country:us/state:mt"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:18Z",
+    "logs_latest_update": "2026-08-10T08:04:34Z",
     "text_extraction_latest_update": "2026-07-24T04:52:05.683383Z"
   }
 }
